@@ -1,40 +1,56 @@
-👻 GPRAISE GAMING BOOSTER
 
-**Get pro sensitivity & settings for ANY phone - in 5 seconds via Termux.**
+👻 GPRAISE GAMING BOOSTER v2.1 - GHOST MODE
+_Member of Binary Ghosts Org._
 
-No hack. 100% legal. 99% performance boost + your skill = 100% headshot beast.
+*200+ PHONES DATABASE | 99% BOOST | NO BAN | NO HACK*
+_Exact sensitivity per phone - Not generic!_
 
-🎮 Supported Games
-- Free Fire / Free Fire MAX
-- Blood Strike (2 / 3 / 4 Finger Claw)
-- Call of Duty Mobile
-- PUBG Mobile
-- Farlight 84
+✅ SUPPORTED GAMES & BOOST:
 
-📱 How to use (Termux)
+*1. FREE FIRE / MAX*
+> + Headshot accuracy, DPI, Drag speed, Zero lag
 
-1. Install Termux from F-Droid
-2. Paste this:
+*2. BLOOD STRIKE*
+> + 2/3/4 Finger Claw Layout, Camera & ADS, 90FPS
 
-```bash
-pkg install git -y
+*3. COD MOBILE*
+> + Fast aim, FOV, Smooth + Max FPS
+
+*4. PUBG MOBILE*
+> + TPP/FPP No Scope, Gyro 200%, Extreme FPS
+
+*5. FARLIGHT 84 / DELTA FORCE*
+> + Camera Boost + Stable ping
+
+✅ PHONES:
+Infinix, Tecno, Samsung, Redmi, Poco, Realme, Itel, iPhone, ROG, Red Magic + more supported.
+
+━━━━━━━━━━━━━━━━━━━━
+
+📥 FIRST TIME INSTALL:
+pkg update -y && pkg install git python -y
 git clone https://github.com/Gamerpraise/gpraise-gaming-booster
 cd gpraise-gaming-booster
 bash setup.sh
-```
-3. Choose game -> Enter device name -> Choose finger claw -> Get pro settings!
+━━━━━━━━━━━━━━━━━━━━
 
-🔥 What it gives you
-- Device-based sensitivity (LOW/MID/HIGH tier auto-detect)
-- DPI, Graphics, FPS settings
-- 2/3/4 Finger Claw layouts for Blood Strike / CODM / PUBG
-- Headshot drag tricks
+▶️ ALREADY INSTALLED? RUN AGAIN:
+If you already cloned before, no need to clone again:
+cd gpraise-gaming-booster
+bash setup.sh
+━━━━━━━━━━━━━━━━━━━━
 
-⚙️ Device Support
-Auto detects: Infinix, Tecno, Samsung, Redmi, Poco, iPhone, Itel, Rog Phone, Red Magic and any Android.
+🔄 UPDATE TO LATEST DB:
+We add new phones daily. Update with:
+cd gpraise-gaming-booster
+bash update.sh
+Want your phone added? Open an Issue and comment your device name 👇
 
-👑 Credits
-Made by *GPRAISE* - Binary Ghosts Founder
-Binary Ghosts Community - Bénin / Nigeria
+━━━━━━━━━━━━━━━━━━━━
+
+*👑 Credits*
+Made by _GPRAISE_ - Binary Ghosts Founder
+Binary Ghosts Org - Global
 
 ⭐ Star this repo if it helped you!
+🔗 https://github.com/Gamerpraise/gpraise-gaming-booster
